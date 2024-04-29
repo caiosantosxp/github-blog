@@ -1,4 +1,4 @@
-# Meu Projeto
+# Blog GitHub
 
 Este projeto é uma ferramenta prática para gerenciar postagens em plataformas de desenvolvimento colaborativo. Ele simplifica a organização e visualização de publicações, permitindo que os usuários acompanhem facilmente as últimas novidades, problemas resolvidos e insights relevantes. Com recursos de busca avançada e uma interface amigável, encontrar e compartilhar conteúdo valioso é rápido e intuitivo. Além disso, oferece uma experiência integrada para interagir com postagens, facilitando a colaboração e o compartilhamento de conhecimento entre os membros da comunidade.
 
